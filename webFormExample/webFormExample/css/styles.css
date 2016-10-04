@@ -1,0 +1,22 @@
+.fblack{
+	color: #000000;
+}
+main > form, 
+main > div.row {
+	margin: 15px 0;
+}
+html{
+	min-height: 100%;
+	position: relative;
+}
+body{
+	margin-bottom: -60px;
+}
+footer{
+	position: absolute;
+	height: 60px;
+	bottom: 0;
+}
+.form-inline input{
+	width: 150px;
+}
